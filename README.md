@@ -6,3 +6,9 @@ HealthTracker Jira lab project for demonstrating GitHub integration and developm
 - Define the initial project scope.
 - Identify core user requirements.
 - Document requirements for planning and implementation.
+
+-> UI/UX Design
+
+- Plan intuitive and accessible application screens.
+- Organize health information in a clear interface.
+- Keep navigation simple and consistent.
